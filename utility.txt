@@ -1,1 +1,1 @@
-This is the utility functions for version 1 of software.
+This is the utility functions for version 2 of software.
